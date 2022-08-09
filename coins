@@ -54,6 +54,24 @@
     }
   },
   {
+   "coin": "ILNSW-PLG20",
+   "name": "ilnsw_plg20",
+   "fname": "Ilien",
+   "rpcport": 80,
+   "mm2": 1,
+   "chain_id": 137,
+   "decimals": 18,
+   "avg_blocktime": 0.03,
+   "required_confirmations": 3,
+   "protocol": {
+     "type": "ERC20",
+     "protocol_data": {
+       "platform": "MATIC",
+       "contract_address": "0x0483Ddbb510d22b206f2F3bDAC18528C952c4213"
+     }
+   }
+ },
+  {
     "coin": "1INCH-BEP20",
     "name": "1inch_bep20",
     "fname": "1inch",
